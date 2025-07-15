@@ -16,7 +16,7 @@ output/
 *.npz
 *.pkl
 *.gz
-*.csv
+
 *.txt
 
 # Jupyter/IPython
